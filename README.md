@@ -4,12 +4,7 @@ Gestión de Desarrollos de Software – Trabajo Práctico Integrador - UTN tupad
 
 # 🎓 Sistema de Gestión de Certificados Académicos (SGCA)
 > **Trabajo Práctico Integrador (TPI)**  
-> Enfoque: **Docs as Code** | Gestión de Proyectos de Software con Asistencia
-## 👥 Perfiles y Roles del Equipo
-
-1. **Alumno A** — Negocio, Gobierno y Cierre del Proyecto
-2. **Alumno B** — Ingeniería de Requerimientos y Documentación Técnica
-3. **Alumno C** — Gestión de Tiempos, Costos, Riesgos y Control
+> Enfoque: **Docs as Code** | Gestión de Proyectos de Software
 
 ---
 1. Alcance del proyecto
@@ -69,9 +64,11 @@ Gestión de Desarrollos de Software – Trabajo Práctico Integrador - UTN tupad
 
 
 
+## 👥 Perfiles y Roles del Equipo
 
-
-
+1. **Alumno A** — Negocio, Gobierno y Cierre del Proyecto
+2. **Alumno B** — Ingeniería de Requerimientos y Documentación Técnica
+3. **Alumno C** — Gestión de Tiempos, Costos, Riesgos y Control
 
 ## 📋 Distribución por Alumno
 
