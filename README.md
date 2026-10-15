@@ -10,10 +10,10 @@ Gestión de Desarrollos de Software – Trabajo Práctico Integrador - UTN tupad
 
 ## 👥 Integrantes y Equipo Simulado
 
-* **Desarrollador Backend:** Aldo Manfredi
-* **Desarrollador Frontend:** Aldo Manfredi
-* **QA / Tester:** Aldo Manfredi
-* **Diseñador UX/UI:** Aldo Manfredi
+* **Desarrollador Backend:** xx001
+* **Desarrollador Frontend:** xx002
+* **QA / Tester:** xx003
+* **Diseñador UX/UI:** xx004
 
 ---
 
