@@ -10,10 +10,10 @@ Gestión de Desarrollos de Software – Trabajo Práctico Integrador - UTN tupad
 
 ## 👥 Integrantes y Equipo Simulado
 
-* **Desarrollador Backend:** Juan Pérez (Node.js)
-* **Desarrollador Frontend:** María Gómez (React)
-* **QA / Tester:** Carlos Rodríguez (Pruebas unitarias e integrales)
-* **Diseñador UX/UI:** Ana Martínez (Prototipado e interfaces)
+* **Desarrollador Backend:** Aldo Manfredi
+* **Desarrollador Frontend:** Aldo Manfredi
+* **QA / Tester:** Aldo Manfredi
+* **Diseñador UX/UI:** Aldo Manfredi
 
 ---
 
