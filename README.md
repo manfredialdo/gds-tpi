@@ -12,8 +12,68 @@ Gestión de Desarrollos de Software – Trabajo Práctico Integrador - UTN tupad
 3. **Alumno C** — Gestión de Tiempos, Costos, Riesgos y Control
 
 ---
+1. Alcance del proyecto
+- Redactar objetivo general y 3 objetivos específicos SMART.
+- Definir inclusiones y exclusiones.
+- Mencionar 2 entregables externos y 2 internos.
+- Explicar en 10 líneas por qué una buena gestión del alcance evita el scope creep.
 
-## 📋 Distribución Detallada por Alumno
+2. Stakeholders
+- Identificar al menos 8 stakeholders (internos y externos).
+- Completar una tabla con rol, tipo, interés, influencia y estrategia de gestión.
+- Mencionar 3 acciones para mantener alineados a los interesados.
+
+3. Ingeniería de Requerimientos
+- Describir técnicas de elicitación a utilizar y justificar.
+- Clasificar y listar: 3 RF y 2 RNF.
+- Priorizar los RF con método MoSCoW.
+- Redactar 2 Historias de Usuario refinadas con INVEST y criterios de aceptación BDD.
+- Redactar 1 Caso de Uso formal para “Solicitar certificado analítico” (actor, precondiciones, flujo principal y excepción).
+
+4. Uso de IA en Requerimientos
+- Incluir 2 prompts en el anexo: refinar, detectar ambigüedades y generar Caso de Uso/diagrama Mermaid o similar.
+- Para cada prompt: instrucción exacta, salida de IA y corrección/validación humana.
+
+5. Riesgos, supuestos y restricciones
+- Identificar 2 riesgos con probabilidad, impacto y mitigación.
+- Identificar 2 supuestos y 2 restricciones.
+- Explicar con un ejemplo: supuesto no cumplido → riesgo → restricción agravante.
+
+6. Estimación de tiempos y costos
+- Aplicar PERT a una tarea crítica (fórmula y resultado).
+- Aplicar Puntos de Función al módulo “Generar certificado PDF”.
+- Realizar presupuesto simplificado: personal, infraestructura, contingencia 10 % y total.
+- Mencionar qué datos históricos pediría para mejorar la estimación con IA.
+
+7. Planificación
+- Elaborar cronograma con al menos 6 tareas, dependencias y duración.
+- Definir 4 hitos SMART y 4 entregables (2 internos y 2 externos).
+- Representar en tabla o diagrama Gantt simple (puede ser con Mermaid o similar).
+
+8. Seguimiento y control
+- Definir 4 KPIs aplicables (Velocity, Lead Time, Cycle Time, Densidad de Defectos, etc.).
+- Redactar 1 reporte de avance simulado semanal: semáforo, hitos, en curso, bloqueos y próximos pasos.
+- Proponer 2 alertas automáticas de un dashboard inteligente con IA.
+
+9. Documentación y artefactos
+- Proponer estructura de carpetas bajo Docs as Code.
+- Redactar un README.md breve (máximo 1 página).
+- Incluir 1 diagrama Mermaid del proceso de solicitud.
+- Redactar una Guía Rápida de máximo 1 página para el alumno.
+
+10. Cierre del proyecto
+- Definir Definition of Done (DoD) del módulo.
+- Explicar cómo se realizaría el UAT y la firma de conformidad (Sign-off).
+- Elaborar Informe Final breve: resumen ejecutivo, desvíos, deuda técnica y liberación de recursos.
+- Redactar las lecciones aprendidas con resúmenes generativos IA.
+
+
+
+
+
+
+
+## 📋 Distribución por Alumno
 
 ### 👔 Alumno A: Negocio, Gobierno y Cierre
 **Enfoque:** Definición estratégica del proyecto, alineación de partes interesadas y proceso de cierre/calidad final.
