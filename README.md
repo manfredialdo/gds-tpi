@@ -1,10 +1,38 @@
 # gds-tpi
 Gestión de Desarrollos de Software – Trabajo Práctico Integrador - UTN tupad 2026
 
+---
 
 # 🎓 Sistema de Gestión de Certificados Académicos (SGCA)
 > **Trabajo Práctico Integrador (TPI)**  
 > Enfoque: **Docs as Code** | Gestión de Proyectos de Software
+
+---
+
+# 🎓 Sistema de Gestión de Certificados Académicos (SGCA)
+## 📌 Contexto y Enunciado del Proyecto
+
+La universidad requiere la implementación de un módulo web que permita a los alumnos solicitar y descargar certificados académicos (**alumno regular** y **analítico parcial**). 
+
+### Funcionalidades Requeridas:
+- **Validación administrativa:** Verificar automáticamente que el alumno no presente deudas pendientes.
+- **Generación de documentos:** Emisión automática del certificado en formato PDF.
+- **Notificaciones:** Envío de correos electrónicos automáticos al emitir el documento.
+- **Auditoría y registro:** Registrar formalmente cada solicitud y su fecha exacta de emisión.
+- **Integración:** Conexión en modo **solo lectura** con el sistema de alumnos existente.
+
+### Restricciones Iniciales:
+- ⏱️ **Plazo de ejecución:** 6 semanas (simulado).
+- 👥 **Equipo de trabajo:** 2 Desarrolladores, 1 Tester (QA), 1 Diseñador UX.
+- 💰 **Presupuesto base:** USD 18.000.
+- 🛠️ **Stack tecnológico obligatorio:** 
+  - **Backend:** Node.js
+  - **Frontend:** React
+  - **Base de Datos:** PostgreSQL
+- 📜 **Regla de negocio del Analítico:** Escala numérica estricta 1–10 y exclusión automática de materias extracurriculares.
+
+
+
 
 ---
 1. Alcance del proyecto
