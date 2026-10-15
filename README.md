@@ -42,6 +42,37 @@ Gestión de Desarrollos de Software – Trabajo Práctico Integrador - UTN tupad
 ### Punto 9: Documentación y ArtefactosDiagrama de Secuencia del Proceso.Guía Rápida para el Alumno.
 
 ### Punto 10: Cierre del ProyectoDefinition of Done (DoD) del módulo.Protocolo de UAT y Sign-off.Informe Final y Lecciones Aprendidas (resúmenes con IA).
+
+
+
+
+## para no pisarse 
+
+### Alumno A (Responsable del Bloque Negocio y Calidad)
+Punto 1: Alcance, Objetivos SMART, Inclusiones/Exclusiones y Scope Creep (content/01-alcance.md).
+
+Punto 2: Stakeholders, Matriz de Influencia y Acciones de Alineación (content/02-stakeholders.md).
+
+Punto 5: Riesgos, Supuestos, Restricciones y Ejemplo Encadenado (content/05-riesgos-supuestos.md).
+
+Punto 8: KPIs, Reporte Semanal y Alertas de IA (content/08-seguimiento-control.md).
+
+Punto 10: Cierre, DoD, UAT, Informe Final y Lecciones Aprendidas (content/10-cierre.md).
+
+### 👩‍💻 Alumno B (Responsable del Bloque Técnico y de Ingeniería)
+Punto 3: Requerimientos (RF, RNF, MoSCoW, Historias de Usuario, Caso de Uso) (content/03-requerimientos.md).
+
+Punto 4: Uso de IA, Prompts, Salidas y Validación Humana (content/04-ia-requerimientos.md).
+
+Punto 6: Estimación (PERT, Puntos de Función y Presupuesto) (content/06-estimacion.md).
+
+Punto 7: Planificación, Cronograma, Hitos y Gantt (content/07-planificacion.md).
+
+Punto 9: Documentación, Diagramas Mermaid y Guía Rápida (docs/ y README.md).
+
+
+
+
 ```text
 /
 ├── README.md                          # Presentación del proyecto e índice principal
