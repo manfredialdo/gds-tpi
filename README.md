@@ -5,74 +5,75 @@ Gestión de Desarrollos de Software – Trabajo Práctico Integrador - UTN tupad
 # 🎓 Sistema de Gestión de Certificados Académicos (SGCA)
 > **Trabajo Práctico Integrador (TPI)**  
 > Enfoque: **Docs as Code** | Gestión de Proyectos de Software con Asistencia
+## 👥 Perfiles y Roles del Equipo
+
+1. **Alumno A** — Negocio, Gobierno y Cierre del Proyecto
+2. **Alumno B** — Ingeniería de Requerimientos y Documentación Técnica
+3. **Alumno C** — Gestión de Tiempos, Costos, Riesgos y Control
 
 ---
 
-## 👥 Integrantes y Equipo Simulado
+## 📋 Distribución Detallada por Alumno
 
-* **Desarrollador Backend:** xx001
-* **Desarrollador Frontend:** xx002
-* **QA / Tester:** xx003
-* **Diseñador UX/UI:** xx004
+### 👔 Alumno A: Negocio, Gobierno y Cierre
+**Enfoque:** Definición estratégica del proyecto, alineación de partes interesadas y proceso de cierre/calidad final.
+
+* **Punto 1: Alcance del Proyecto** (`content/01-alcance.md`)
+  * Objetivo General y Objetivos Específicos SMART.
+  * Inclusiones/Exclusiones y Entregables.
+  * Estrategia de gestión para mitigar el *Scope Creep*.
+* **Punto 2: Stakeholders y Alineación** (`content/02-stakeholders.md`)
+  * Identificación y clasificación de los 8 Stakeholders clave.
+  * Matriz de Interés vs. Influencia y estrategias de gestión.
+  * Acciones concretas de alineación.
+* **Punto 10: Cierre del Proyecto** (`content/10-cierre.md`)
+  * Definition of Done (DoD) del módulo.
+  * Protocolo de UAT y Sign-off.
+  * Informe Final y Lecciones Aprendidas (con resúmenes apoyados en IA).
+* **Entregables adicionales:**
+  * Presentación general e Índice principal en `README.md`.
 
 ---
 
-## 📁 Estructura del Repositorio
+### 💻 Alumno B: Ingeniería de Requerimientos y Documentación
+**Enfoque:** Especificación de requisitos, elicitación con IA y artefactos de arquitectura/modelado técnico.
 
+* **Punto 3: Ingeniería de Requerimientos** (`content/03-requerimientos.md`)
+  * Técnicas de elicitación justificadas.
+  * Clasificación RF (3) y RNF (2) con priorización MoSCoW.
+  * Historias de Usuario (criterios INVEST y formato BDD / Given-When-Then).
+  * Caso de Uso Formal: *Solicitar certificado analítico*.
+* **Punto 4: Uso de IA en Requerimientos** (`content/04-ia-requerimientos.md`)
+  * Registro de Prompts reutilizables para refinamiento y detección de ambigüedades.
+  * Comparativa de Salidas generadas vs. Corrección/Validación humana.
+* **Punto 9: Documentación y Artefactos Técnicos** (`docs/` y `assets/`)
+  * Diagrama de Secuencia del Proceso en fuente Mermaid (`assets/diagrama-proceso.mmd`).
+  * Arquitectura del proceso (`docs/proceso-solicitud.md`).
+  * Guía Rápida para el Alumno de máximo 1 página (`docs/quick-start-alumno.md`).
 
+---
 
+### 📊 Alumno C: Planificación, Estimación, Riesgos y Control
+**Enfoque:** Métricas cuantitativas, planificación temporal, presupuestación económica y monitoreo de ejecución.
 
-Índice de Contenidos
-### Punto 1: Alcance del ProyectoObjetivo General y Objetivos Específicos SMART.Inclusiones y Exclusiones.Entregables Internos y Externos.Gestión del alcance para mitigar el Scope Creep.
-
-### Punto 2: StakeholdersIdentificación y clasificación de los 8 Stakeholders clave.Matriz de Interés vs. Influencia y estrategias de gestión.Acciones para mantener la alineación.
-
-### Punto 3: Ingeniería de RequerimientosTécnicas de elicitación justificadas.Clasificación RF (3) y RNF (2) con priorización MoSCoW.Historias de Usuario (INVEST y BDD / Given-When-Then).Caso de Uso Formal: Solicitar certificado analítico.
-
-###Punto 4: Uso de IA en RequerimientosRegistro de Prompts utilizables para refinar e identificar ambigüedades.Salidas generadas vs. Corrección y validación humana.
-
-### Punto 5: Riesgos, Supuestos y RestriccionesMatriz de Riesgos (Probabilidad, Impacto y Mitigación).Supuestos clave y Restricciones técnicas.Ejemplo encadenado: Supuesto no cumplido $\rightarrow$ Riesgo $\rightarrow$ Restricción.
-
-### Punto 6: Estimación de Tiempos y CostosCálculo PERT para tareas críticas.Puntos de Función (PF) aplicados al módulo PDF.Presupuesto económico detallado (Límite: USD 18.000).Datos históricos clave para entrenamiento de IA.
-
-### Punto 7: Planificación y CronogramaEstructura de desglose de tareas y dependencias.Hitos y Entregables SMART.Diagrama Gantt interactivo.
-
-### Punto 8: Seguimiento y ControlKPIs del proyecto (Velocity, Lead Time, Cycle Time, Defect Density).Reporte de Avance Semanal (Semáforo de proyecto).Alertas automáticas de Dashboard con IA.
-
-### Punto 9: Documentación y ArtefactosDiagrama de Secuencia del Proceso.Guía Rápida para el Alumno.
-
-### Punto 10: Cierre del ProyectoDefinition of Done (DoD) del módulo.Protocolo de UAT y Sign-off.Informe Final y Lecciones Aprendidas (resúmenes con IA).
-
-
-
-
-## para no pisarse 
-
-### Alumno A (Responsable del Bloque Negocio y Calidad)
-Punto 1: Alcance, Objetivos SMART, Inclusiones/Exclusiones y Scope Creep (content/01-alcance.md).
-
-Punto 2: Stakeholders, Matriz de Influencia y Acciones de Alineación (content/02-stakeholders.md).
-
-Punto 5: Riesgos, Supuestos, Restricciones y Ejemplo Encadenado (content/05-riesgos-supuestos.md).
-
-Punto 8: KPIs, Reporte Semanal y Alertas de IA (content/08-seguimiento-control.md).
-
-Punto 10: Cierre, DoD, UAT, Informe Final y Lecciones Aprendidas (content/10-cierre.md).
-
-### 👩‍💻 Alumno B (Responsable del Bloque Técnico y de Ingeniería)
-Punto 3: Requerimientos (RF, RNF, MoSCoW, Historias de Usuario, Caso de Uso) (content/03-requerimientos.md).
-
-Punto 4: Uso de IA, Prompts, Salidas y Validación Humana (content/04-ia-requerimientos.md).
-
-Punto 6: Estimación (PERT, Puntos de Función y Presupuesto) (content/06-estimacion.md).
-
-Punto 7: Planificación, Cronograma, Hitos y Gantt (content/07-planificacion.md).
-
-Punto 9: Documentación, Diagramas Mermaid y Guía Rápida (docs/ y README.md).
-
-
-
-
+* **Punto 5: Riesgos, Supuestos y Restricciones** (`content/05-riesgos-supuestos.md`)
+  * Matriz de Riesgos (Probabilidad, Impacto y Mitigación).
+  * Supuestos clave y Restricciones técnicas.
+  * Ejemplo encadenado (*Supuesto no cumplido → Riesgo → Restricción*).
+* **Punto 6: Estimación de Tiempos y Costos** (`content/06-estimacion.md`)
+  * Cálculo PERT para tareas críticas.
+  * Puntos de Función (PF) aplicados al módulo PDF.
+  * Presupuesto económico detallado (Límite: USD 18.000).
+  * Datos históricos para entrenamiento de IA.
+* **Punto 7: Planificación y Cronograma** (`content/07-planificacion.md`)
+  * Estructura de desglose de tareas (WBS) y dependencias.
+  * Hitos y Entregables SMART.
+  * Diagrama Gantt interactivo/código.
+* **Punto 8: Seguimiento y Control** (`content/08-seguimiento-control.md`)
+  * KPIs del proyecto (Velocity, Lead Time, Cycle Time, Defect Density).
+  * Reporte de Avance Semanal (Semáforo de proyecto).
+  * Alertas automáticas de Dashboard con IA.
+  *
 ```text
 /
 ├── README.md                          # Presentación del proyecto e índice principal
@@ -92,5 +93,24 @@ Punto 9: Documentación, Diagramas Mermaid y Guía Rápida (docs/ y README.md).
 └── assets/                            # Recursos gráficos y código fuente Mermaid
     └── diagrama-proceso.mmd           # Archivo fuente Mermaid del proceso
 
-
-
+    
+    
+    
+    
+    /
+    ├── README.md                          # Alumno A
+    ├── docs/                              
+    │   ├── proceso-solicitud.md           # Alumno B
+    │   └── quick-start-alumno.md          # Alumno B
+    ├── content/                           
+    │   ├── 01-alcance.md                  # Alumno A
+    │   ├── 02-stakeholders.md             # Alumno A
+    │   ├── 03-requerimientos.md           # Alumno B
+    │   ├── 04-ia-requerimientos.md        # Alumno B
+    │   ├── 05-riesgos-supuestos.md        # Alumno C
+    │   ├── 06-estimacion.md               # Alumno C
+    │   ├── 07-planificacion.md            # Alumno C
+    │   ├── 08-seguimiento-control.md      # Alumno C
+    │   └── 10-cierre.md                   # Alumno A
+    └── assets/                            
+        └── diagrama-proceso.mmd           # Alumno B
