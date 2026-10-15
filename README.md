@@ -74,6 +74,18 @@ Gestión de Desarrollos de Software – Trabajo Práctico Integrador - UTN tupad
   * Reporte de Avance Semanal (Semáforo de proyecto).
   * Alertas automáticas de Dashboard con IA.
   *
+
+
+
+
+## 🛡️ Flujo Seguro: Trabajar, Subir Avances y Requerir Aprobación
+
+Para mantener la rama principal (`main`) protegida y permitir que el equipo vea los avances de cada integrante en tiempo real, se seguirá el siguiente flujo de trabajo:
+
+### 1. Crear la rama (Antes de editar cualquier archivo)
+Desde la terminal de Codespaces/VS Code:
+
+  
 ```text
 /
 ├── README.md                          # Presentación del proyecto e índice principal
