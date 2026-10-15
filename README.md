@@ -4,7 +4,7 @@ Gestión de Desarrollos de Software – Trabajo Práctico Integrador - UTN tupad
 
 # 🎓 Sistema de Gestión de Certificados Académicos (SGCA)
 > **Trabajo Práctico Integrador (TPI)**  
-> Enfoque: **Docs as Code** | Gestión de Proyectos de Software con Asistencia de IA
+> Enfoque: **Docs as Code** | Gestión de Proyectos de Software con Asistencia
 
 ---
 
