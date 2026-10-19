@@ -1,7 +1,10 @@
-Punto 2: Stakeholders y Alineación (content/02-stakeholders.md)
-Identificación y clasificación de los 8 Stakeholders clave.
-Matriz de Interés vs. Influencia y estrategias de gestión.
-Acciones concretas de alineación.
+## Punto 2: Stakeholders y Alineación (content/02-stakeholders.md)
+
+### Identificación y clasificación de los 8 Stakeholders clave.
+
+### Matriz de Interés vs. Influencia y estrategias de gestión.
+
+### Acciones concretas de alineación.
 
 
 
