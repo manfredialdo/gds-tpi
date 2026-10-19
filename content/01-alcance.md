@@ -1,4 +1,14 @@
-# 1. Alcance del Proyecto
+## Punto 1: Alcance del Proyecto (content/01-alcance.md)
+
+### Objetivo General y Objetivos Específicos SMART.
+
+### Inclusiones/Exclusiones y Entregables.
+
+### Estrategia de gestión para mitigar el Scope Creep.
+
+
+
+# 1. Alcance del Proyectogit add content/01-alcance.md
 
 ## Objetivo General
 Implementar un módulo web integrado bajo la metodología *Docs as Code* para la solicitud y descarga automatizada de certificados académicos (alumno regular y analítico parcial) de la universidad, asegurando la validación automática de deudas, emisión de PDFs, notificaciones por correo y auditoría de solicitudes en un plazo de 6 semanas y un presupuesto máximo de USD 18.000, utilizando Node.js, React y PostgreSQL.
