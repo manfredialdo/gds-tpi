@@ -134,7 +134,8 @@ La universidad requiere la implementación de un módulo web que permita a los a
 │   ├── 06-estimacion.md                # Alumno B (Estimación PERT, Puntos de Función y Presupuesto)
 │   ├── 07-planificacion.md             # Alumno B (Cronograma, Hitos, Entregables y Diagrama Gantt)
 │   ├── 08-seguimiento-control.md       # Alumno C (KPIs, Reporte Semanal y Alertas de IA)
-│   └── 10-cierre.md                    # Alumno C (DoD, UAT, Informe Final y Lecciones Aprendidas)
+│   ├── 09-documentacion-artefactos.md  # Alumno A, C 
+│   └── 10-cierre.md                    # Alumno C, A (DoD, UAT, Informe Final y Lecciones Aprendidas)
 └── assets/                             # Recursos gráficos y código fuente Mermaid
     └── diagrama-proceso.mmd            # Alumno A (Archivo fuente Mermaid del proceso)    
     
