@@ -116,7 +116,6 @@ La universidad requiere la implementación de un módulo web que permita a los a
 - **Punto 8:** Seguimiento y Control (4 KPIs, Reporte semanal simulado y 2 Alertas IA).
 - **Parte del Punto 9:** Estructura y Artefactos de Documentación (Diseño de la estructura Docs as Code, redacción del `README.md` y la `quick-start-alumno.md`).
 - **Punto 10:** Cierre del Proyecto (Definition of Done, UAT + Sign-off, Informe Final y Lecciones Aprendidas con IA).
-  -
 
 ```text
 /
