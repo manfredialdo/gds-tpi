@@ -1,6 +1,9 @@
 # gds-tpi
 Gestión de Desarrollos de Software – Trabajo Práctico Integrador - UTN tupad 2026
 
+https://github.com/manfredialdo/gds-tpi
+
+
 ---
 
 # 🎓 Sistema de Gestión de Certificados Académicos (SGCA)
