@@ -136,25 +136,26 @@ La universidad requiere la implementación de un módulo web que permita a los a
   -
   -
 ```text
+```text
 /
-├── README.md                          # Presentación del proyecto e índice principal
-├── docs/                              # Documentación de arquitectura y guías
-│   ├── proceso-solicitud.md           # Diagrama de flujo y arquitectura del proceso
-│   └── quick-start-alumno.md          # Guía Rápida para el Alumno (Máx. 1 página)
-├── content/                           # Desarrollo punto por punto del TPI
-│   ├── 01-alcance.md                  # Punto 1: Alcance, Objetivos SMART y Scope Creep
-│   ├── 02-stakeholders.md             # Punto 2: Matriz de Stakeholders y Alineación
-│   ├── 03-requerimientos.md           # Punto 3: RF, RNF, MoSCoW, HU (INVEST/BDD) y Caso de Uso
-│   ├── 04-ia-requerimientos.md        # Punto 4: Prompts de IA, Salidas y Validación Humana
-│   ├── 05-riesgos-supuestos.md        # Punto 5: Matriz de Riesgos, Supuestos y Cadena de Impacto
-│   ├── 06-estimacion.md               # Punto 6: Estimación PERT, Puntos de Función y Presupuesto
-│   ├── 07-planificacion.md            # Punto 7: Cronograma, Hitos, Entregables y Diagrama Gantt
-│   ├── 08-seguimiento-control.md      # Punto 8: KPIs, Reporte Semanal y Alertas de IA
-│   └── 10-cierre.md                   # Punto 10: DoD, UAT, Informe Final y Lecciones Aprendidas
-└── assets/                            # Recursos gráficos y código fuente Mermaid
-    └── diagrama-proceso.mmd           # Archivo fuente Mermaid del proceso
-
-    
+├── README.md                           # Alumno C (Estructura & Presentación Docs as Code)
+├── apuntes/                            # Apuntes de cátedra por unidad
+│   └── gds0000001.pdf
+├── docs/                               # Documentación de arquitectura y guías
+│   ├── proceso-solicitud.md            # Alumno A (Diagrama de flujo del proceso)
+│   └── quick-start-alumno.md           # Alumno C (Guía Rápida para el Alumno - Máx. 1 pág.)
+├── content/                            # Desarrollo punto por punto del TPI
+│   ├── 01-alcance.md                   # Alumno A (Completado)
+│   ├── 02-stakeholders.md               # Alumno A (Completado)
+│   ├── 03-requerimientos.md            # Alumno A (RF, RNF, MoSCoW, HU BDD/INVEST, Caso de Uso)
+│   ├── 04-ia-requerimientos.md         # Alumno A (Prompts de IA, Salidas y Validación)
+│   ├── 05-riesgos-supuestos.md         # Alumno B (Matriz de Riesgos, Supuestos y Cadena de Impacto)
+│   ├── 06-estimacion.md                # Alumno B (Estimación PERT, Puntos de Función y Presupuesto)
+│   ├── 07-planificacion.md             # Alumno B (Cronograma, Hitos, Entregables y Diagrama Gantt)
+│   ├── 08-seguimiento-control.md       # Alumno C (KPIs, Reporte Semanal y Alertas de IA)
+│   └── 10-cierre.md                    # Alumno C (DoD, UAT, Informe Final y Lecciones Aprendidas)
+└── assets/                             # Recursos gráficos y código fuente Mermaid
+    └── diagrama-proceso.mmd            # Alumno A (Archivo fuente Mermaid del proceso)    
     
     
     
