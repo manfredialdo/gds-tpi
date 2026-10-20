@@ -117,7 +117,7 @@ La universidad requiere la implementación de un módulo web que permita a los a
 - **Parte del Punto 9:** Estructura y Artefactos de Documentación (Diseño de la estructura Docs as Code, redacción del `README.md` y la `quick-start-alumno.md`).
 - **Punto 10:** Cierre del Proyecto (Definition of Done, UAT + Sign-off, Informe Final y Lecciones Aprendidas con IA).
   -
-```text
+
 ```text
 /
 ├── README.md                           # Alumno C (Estructura & Presentación Docs as Code)
@@ -138,7 +138,6 @@ La universidad requiere la implementación de un módulo web que permita a los a
 │   └── 10-cierre.md                    # Alumno C (DoD, UAT, Informe Final y Lecciones Aprendidas)
 └── assets/                             # Recursos gráficos y código fuente Mermaid
     └── diagrama-proceso.mmd            # Alumno A (Archivo fuente Mermaid del proceso)    
-    
     
     
     /
