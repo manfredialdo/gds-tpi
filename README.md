@@ -97,43 +97,25 @@ La universidad requiere la implementación de un módulo web que permita a los a
 
 ## 👥 Perfiles y Roles del Equipo
 ### 👤 ALUMNO A: Análisis Funcional & Modelado de Procesos
-**Balance:** Mezcla redacción funcional compleja (casos de uso) con diagramación técnica.
-- **Punto 3: Ingeniería de Requerimientos (Completo)**
-  - Elicitación, 3 RF, 2 RNF, MoSCoW, 2 Historias BDD/INVEST y 1 Caso de Uso formal.
-- **Punto 4: Uso de IA en Requerimientos (Completo)**
-  - 2 Prompts (instrucción, salida, validación humana).
-- **Parte del Punto 9: Diagramación Técnica**
-  - Redactar e incluir el Diagrama Mermaid del proceso de solicitud.
+- **Punto 1:** Alcance (en progreso)
+- **Punto 2:** Stakeholders (en progreso)
+- **Punto 3:** Ingeniería de Requerimientos (Elicitación, 3 RF, 2 RNF, MoSCoW, 2 HU BDD/INVEST y 1 Caso de Uso formal).
+- **Punto 4:** Uso de IA en Requerimientos (2 Prompts con instrucción, salida y validación humana).
+- **Parte del Punto 9:** Diagramación del Proceso (Diagrama de flujo Mermaid y su código fuente `.mmd`).
 
 ---
 
 ### 👤 ALUMNO B: Métodos Cuantitativos, Riesgos & Cronograma
-**Balance:** Combina matemática proyectual (PERT/PF) con estructura de tiempos y análisis de riesgo encadenado.
-- **Punto 5: Riesgos, Supuestos y Restricciones (Completo)**
-  - Matriz de 2 riesgos, supuestos, restricciones y la cadena lógica (supuesto no cumplido → riesgo → restricción).
-- **Punto 6: Estimación de Tiempos y Costos (Completo)**
-  - Fórmula y cálculo de PERT.
-  - Conteo de Puntos de Función.
-  - Presupuesto (Personal, Infraestructura, 10% contingencia).
-  - Datos históricos para IA.
-- **Punto 7: Planificación (Completo)**
-  - Cronograma (6 tareas + dependencias), 4 Hitos SMART, 4 Entregables y Diagrama Gantt.
+- **Punto 5:** Riesgos, Supuestos y Restricciones (Matriz de riesgos, supuestos, restricciones y cadena de impacto).
+- **Punto 6:** Estimación de Tiempos y Costos (PERT, Puntos de Función, Presupuesto con 10% contingencia y datos históricos para IA).
+- **Punto 7:** Planificación (Cronograma de 6 tareas, 4 Hitos SMART, 4 Entregables y Diagrama Gantt).
 
 ---
 
 ### 👤 ALUMNO C: Métricas, Infraestructura "Docs as Code" & Cierre
-**Balance:** Compensado al asumir la arquitectura de documentación (Docs as Code) + la capa de control (KPIs/Dashboard) + el informe de cierre.
-- **Punto 8: Seguimiento y Control (Completo)**
-  - 4 KPIs (Velocity, Lead Time, etc.), Reporte semanal simulado y 2 Alertas automáticas para dashboard IA.
-- **Parte del Punto 9: Estructura y Artefactos de Documentación**
-  - Estructura de carpetas bajo filosofía Docs as Code.
-  - Redacción del README.md (máx. 1 página).
-  - Redacción de la Guía Rápida del Alumno (máx. 1 página).
-- **Punto 10: Cierre del Proyecto (Completo)**
-  - Definition of Done (DoD), UAT + Sign-off, Informe Final y Lecciones aprendidas con IA.
-  -
-  -
-  -
+- **Punto 8:** Seguimiento y Control (4 KPIs, Reporte semanal simulado y 2 Alertas IA).
+- **Parte del Punto 9:** Estructura y Artefactos de Documentación (Diseño de la estructura Docs as Code, redacción del `README.md` y la `quick-start-alumno.md`).
+- **Punto 10:** Cierre del Proyecto (Definition of Done, UAT + Sign-off, Informe Final y Lecciones Aprendidas con IA).
   -
 ```text
 ```text
