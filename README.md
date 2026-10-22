@@ -99,23 +99,25 @@ La universidad requiere la implementación de un módulo web que permita a los a
 ### 👤 ALUMNO A: Análisis Funcional & Modelado de Procesos
 - **Punto 1:** Alcance (en progreso)
 - **Punto 2:** Stakeholders (en progreso)
-- **Punto 3:** Ingeniería de Requerimientos (Elicitación, 3 RF, 2 RNF, MoSCoW, 2 HU BDD/INVEST y 1 Caso de Uso formal).
 - **Punto 4:** Uso de IA en Requerimientos (2 Prompts con instrucción, salida y validación humana).
-- **Parte del Punto 9:** Diagramación del Proceso (Diagrama de flujo Mermaid y su código fuente `.mmd`).
+- **Punto 5:** Riesgos, Supuestos y Restricciones (Matriz de riesgos, supuestos, restricciones y cadena de impacto).
 
 ---
 
 ### 👤 ALUMNO B: Métodos Cuantitativos, Riesgos & Cronograma
-- **Punto 5:** Riesgos, Supuestos y Restricciones (Matriz de riesgos, supuestos, restricciones y cadena de impacto).
-- **Punto 6:** Estimación de Tiempos y Costos (PERT, Puntos de Función, Presupuesto con 10% contingencia y datos históricos para IA).
+- **Punto 3:** Ingeniería de Requerimientos (Elicitación, 3 RF, 2 RNF, MoSCoW, 2 HU BDD/INVEST y 1 Caso de Uso formal).
 - **Punto 7:** Planificación (Cronograma de 6 tareas, 4 Hitos SMART, 4 Entregables y Diagrama Gantt).
-
+- **Parte del Punto 9:** Diagramación del Proceso (Diagrama de flujo Mermaid y su código fuente `.mmd`).
+- **Punto 10:** Cierre del Proyecto (Definition of Done, UAT + Sign-off, Informe Final y Lecciones Aprendidas con IA).
+    
 ---
 
 ### 👤 ALUMNO C: Métricas, Infraestructura "Docs as Code" & Cierre
+- **Punto 5:** Riesgos, Supuestos y Restricciones (Matriz de riesgos, supuestos, restricciones y cadena de impacto).
+- **Punto 6:** Estimación de Tiempos y Costos (PERT, Puntos de Función, Presupuesto con 10% contingencia y datos históricos para IA).
 - **Punto 8:** Seguimiento y Control (4 KPIs, Reporte semanal simulado y 2 Alertas IA).
 - **Parte del Punto 9:** Estructura y Artefactos de Documentación (Diseño de la estructura Docs as Code, redacción del `README.md` y la `quick-start-alumno.md`).
-- **Punto 10:** Cierre del Proyecto (Definition of Done, UAT + Sign-off, Informe Final y Lecciones Aprendidas con IA).
+
 
 ```text
 /
@@ -126,34 +128,35 @@ La universidad requiere la implementación de un módulo web que permita a los a
 │   ├── proceso-solicitud.md            # Alumno A (Diagrama de flujo del proceso)
 │   └── quick-start-alumno.md           # Alumno C (Guía Rápida para el Alumno - Máx. 1 pág.)
 ├── content/                            # Desarrollo punto por punto del TPI
-│   ├── 01-alcance.md                   # Alumno A (Completado)
-│   ├── 02-stakeholders.md               # Alumno A (Completado)
-│   ├── 03-requerimientos.md            # Alumno A (RF, RNF, MoSCoW, HU BDD/INVEST, Caso de Uso)
+│   ├── 01-alcance.md                   # Alumno A (en progreso)
+│   ├── 02-stakeholders.md              # Alumno A (en progreso)
+│   ├── 03-requerimientos.md            # Alumno B (RF, RNF, MoSCoW, HU BDD/INVEST, Caso de Uso)
 │   ├── 04-ia-requerimientos.md         # Alumno A (Prompts de IA, Salidas y Validación)
-│   ├── 05-riesgos-supuestos.md         # Alumno B (Matriz de Riesgos, Supuestos y Cadena de Impacto)
-│   ├── 06-estimacion.md                # Alumno B (Estimación PERT, Puntos de Función y Presupuesto)
+│   ├── 05-riesgos-supuestos.md         # Alumno A (Matriz de Riesgos, Supuestos y Cadena de Impacto)
+│   ├── 06-estimacion.md                # Alumno C (Estimación PERT, Puntos de Función y Presupuesto)
 │   ├── 07-planificacion.md             # Alumno B (Cronograma, Hitos, Entregables y Diagrama Gantt)
 │   ├── 08-seguimiento-control.md       # Alumno C (KPIs, Reporte Semanal y Alertas de IA)
-│   ├── 09-documentacion-artefactos.md  # Alumno A, C 
-│   └── 10-cierre.md                    # Alumno C, A (DoD, UAT, Informe Final y Lecciones Aprendidas)
+│   ├── 09-documentacion-artefactos.md  # Alumno B, C
+│   └── 10-cierre.md                    # Alumno B (DoD, UAT, Informe Final y Lecciones Aprendidas)
 └── assets/                             # Recursos gráficos y código fuente Mermaid
     └── diagrama-proceso.mmd            # Alumno A (Archivo fuente Mermaid del proceso)    
     
     
     /
-    ├── README.md                          # Alumno A
+    ├── README.md                          # Alumno C
     ├── docs/                              
     │   ├── proceso-solicitud.md           # Alumno B
     │   └── quick-start-alumno.md          # Alumno B
     ├── content/                           
-    │   ├── 01-alcance.md                  # Alumno A
-    │   ├── 02-stakeholders.md             # Alumno A
+    │   ├── 01-alcance.md                  # Alumno A (en progreso)
+    │   ├── 02-stakeholders.md             # Alumno A (en progreso)
     │   ├── 03-requerimientos.md           # Alumno B
-    │   ├── 04-ia-requerimientos.md        # Alumno B
-    │   ├── 05-riesgos-supuestos.md        # Alumno C
+    │   ├── 04-ia-requerimientos.md        # Alumno A
+    │   ├── 05-riesgos-supuestos.md        # Alumno A
     │   ├── 06-estimacion.md               # Alumno C
-    │   ├── 07-planificacion.md            # Alumno C
+    │   ├── 07-planificacion.md            # Alumno B
     │   ├── 08-seguimiento-control.md      # Alumno C
-    │   └── 10-cierre.md                   # Alumno A
+    │   ├── 09-documentacion-artefactos.md # Alumno B, C
+    │   └── 10-cierre.md                   # Alumno B
     └── assets/                            
         └── diagrama-proceso.mmd           # Alumno B
