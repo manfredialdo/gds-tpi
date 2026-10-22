@@ -138,7 +138,7 @@ La universidad requiere la implementación de un módulo web que permita a los a
 │   ├── 09-documentacion-artefactos.md  # Alumno B, C
 │   └── 10-cierre.md                    # Alumno B (DoD, UAT, Informe Final y Lecciones Aprendidas)
 └── assets/                             # Recursos gráficos y código fuente Mermaid
-    └── diagrama-proceso.mmd            # Alumno A (Archivo fuente Mermaid del proceso)    
+    └── diagrama-proceso.mmd            # Alumno B (Archivo fuente Mermaid del proceso)    
     
 
 
